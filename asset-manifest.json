@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.ae3c283b.chunk.css",
+    "main.js": "/reactlivewebsite/static/js/main.1266824b.chunk.js",
+    "main.js.map": "/reactlivewebsite/static/js/main.1266824b.chunk.js.map",
+    "runtime-main.js": "/reactlivewebsite/static/js/runtime-main.99d0577d.js",
+    "runtime-main.js.map": "/reactlivewebsite/static/js/runtime-main.99d0577d.js.map",
+    "static/js/2.11d713f0.chunk.js": "/reactlivewebsite/static/js/2.11d713f0.chunk.js",
+    "static/js/2.11d713f0.chunk.js.map": "/reactlivewebsite/static/js/2.11d713f0.chunk.js.map",
+    "index.html": "/reactlivewebsite/index.html",
+    "precache-manifest.c55bdda4204796453511818d5f10a977.js": "/reactlivewebsite/precache-manifest.c55bdda4204796453511818d5f10a977.js",
+    "service-worker.js": "/reactlivewebsite/service-worker.js",
+    "static/css/main.ae3c283b.chunk.css.map": "/reactlivewebsite/static/css/main.ae3c283b.chunk.css.map",
+    "static/js/2.11d713f0.chunk.js.LICENSE.txt": "/reactlivewebsite/static/js/2.11d713f0.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/reactlivewebsite/static/media/svg-1.1044a68b.svg",
+    "static/media/svg-5.svg": "/reactlivewebsite/static/media/svg-5.5c246e8e.svg",
+    "static/media/svg-7.svg": "/reactlivewebsite/static/media/svg-7.4491c8c9.svg",
+    "static/media/svg-8.svg": "/reactlivewebsite/static/media/svg-8.c78a1bf2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99d0577d.js",
+    "static/js/2.11d713f0.chunk.js",
+    "static/css/main.ae3c283b.chunk.css",
+    "static/js/main.1266824b.chunk.js"
+  ]
+}
